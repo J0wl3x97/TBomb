@@ -17,30 +17,43 @@ While Using The Infinite Bomb Use 2-3 Seconds Delay And 10 to 20 Threads For Max
 
 Make Sure You Are Using python3
 
+## Usage
+Run These Commands To Run TBomb<br>
+### For Termux
 To USE the Script Type The Following Commands in Termux...
 
+```
 apt install git
-
 git clone https://github.com/TheSpeedX/TBomb.git
-
 cd TBomb
-
 chmod +x TBomb.sh
-
 ./TBomb.sh
+```
+
+### For Linux (Debian Based)
+
+To USE the Script Type The Following Commands in Linux Terminal...
+
+```
+sudo apt install git
+git clone https://github.com/TheSpeedX/TBomb.git
+cd TBomb
+chmod +x TBomb.sh
+sudo bash TBomb.sh
+```
 
 Now the Script Will Execute..
 
 ## FEATURES 
 
- [+] Lots Of APIs
- [+] Unlimited And Super-Fast Bombing
- [+] International Bombing Available
- [+] Call Bombing
- [+] Protection List
- [+] Updated Frequently
- [+] Automated Future Updates
- [+] Easy To Use And Embed in Code
+ [+] Lots Of APIs <br>
+ [+] Unlimited And Super-Fast Bombing <br>
+ [+] International Bombing Available <br>
+ [+] Call Bombing <br>
+ [+] Protection List <br>
+ [+] Updated Frequently <br>
+ [+] Automated Future Updates <br>
+ [+] Easy To Use And Embed in Code <br>
  
 ## DEMO
 <br>
@@ -50,13 +63,13 @@ Watch International Bombing Method <a href="https://youtu.be/JqsHkyIcnPM">here</
 # CONTRIBUTORS
 <br><br>
 [*]  SpeedX<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[-] Mail At: ggspeedx29@gmail.com   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[-] Mail At: ggspeedx29@gmail.com  <br>
 [*]  The Black Hacker Roxstar<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[-] Ping At: http://wa.me/917600140353
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[-] Ping At: http://wa.me/917600140353 <br>
 [*]  Rieltar<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[-] Ping At: https://t.me/Rieltar  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[-] Ping At: https://t.me/Rieltar  <br>
 [*]  0n1cOn3 (Stefan)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[-] Mail At: 0n1cOn3@gmx.ch
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[-] Mail At: 0n1cOn3@gmx.ch <br>
 
 # CONTACT
 For Any Queries Join Us On WhatsApp!!!
